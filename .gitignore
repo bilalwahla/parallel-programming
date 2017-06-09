@@ -1,0 +1,19 @@
+### Scala ###
+*.log
+
+### IntelliJ IDEA ###
+*.ipr
+*.iws
+.idea
+
+### OS ###
+.DS_Store
+
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.cache
+.lib/
